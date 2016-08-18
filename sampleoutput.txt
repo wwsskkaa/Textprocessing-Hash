@@ -1,0 +1,64 @@
+Hello, Qiguang, This is Bonnie:)
+Today I will create a concordance from The Sonnets by Shakespeare.
+
+
+
+...........Done reading THE SONNETS..............
+There are 17516 words (real words, including repeats) in the file.
+The concordance has been created, there are 3213 unique words in Shakespeare's sonnets.
+
+Which indicates that, only 18.34 percent of the words in The Sonnets are unique.
+
+Ok, now input a word and I will give you the location of it.
+type "stop" if you want to move on.
+
+all-the-world
+Here are the locations (Sonnet, line, index):
+(CXII, 5, 4) 
+o'er-green
+Here are the locations (Sonnet, line, index):
+(CXII, 4, 3) 
+'scap'd
+Here are the locations (Sonnet, line, index):
+(XC, 5, 8) 
+love
+Here are the locations (Sonnet, line, index):
+(IX, 13, 2) (X, 1, 7) (X, 10, 8) (X, 13, 6) (XIII, 1, 8) (XIII, 13, 7) (XV, 13, 8) (XIX, 14, 2) (XX, 14, 4) (XXI, 9, 6) (XXI, 10, 6) (XXII, 9, 3) (XXIII, 11, 4) (XXIII, 13, 7) (XXV, 13, 5) (XXVI, 1, 4) (XXVI, 13, 10) (XXIX, 13, 4) (XXXI, 3, 4) (XXXI, 6, 4) (XXXI, 9, 7) (XXXII, 7, 5) (XXXII, 11, 7) (XXXIII, 13, 6) (XXXIV, 13, 9) (XXXV, 12, 7) (XXXVI, 13, 6) (XXXVII, 8, 4) (XXXIX, 6, 4) (XXXIX, 11, 8) (XL, 1, 6) (XL, 3, 2) (XL, 3, 4) (XL, 3, 9) (XL, 5, 5) (XL, 5, 8) (XL, 6, 7) (XL, 11, 3) (XLII, 4, 4) (XLII, 6, 3) (XLII, 6, 9) (XLV, 6, 5) (XLVI, 14, 7) (XLVII, 4, 4) (XLVII, 8, 6) (XLVII, 9, 8) (XLIX, 3, 4) (XLIX, 7, 2) (XLIX, 14, 4) (LI, 1, 4) (LI, 10, 5) (LI, 12, 2) (LI, 12, 4) (LVI, 1, 2) (LVI, 5, 2) (LVI, 8, 4) (LVI, 12, 3) (LVII, 13, 6) (LXI, 9, 4) (LXI, 10, 4) (LXI, 11, 4) (LXIII, 1, 3) (LXIV, 12, 8) (LXV, 14, 6) (LXVI, 14, 8) (LXX, 7, 8) (LXXI, 6, 8) (LXXI, 12, 4) (LXXII, 2, 9) (LXXII, 3, 4) (LXXII, 9, 5) (LXXII, 10, 4) (LXXII, 14, 6) (LXXIII, 13, 7) (LXXIII, 14, 2) (LXXVI, 9, 4) (LXXVI, 10, 4) (LXXVI, 14, 4) (LXXIX, 5, 4) (LXXX, 14, 5) (LXXXII, 9, 4) (LXXXV, 11, 8) (LXXXVIII, 13, 4) (LXXXIX, 5, 4) (LXXXIX, 14, 5) (XCI, 9, 2) (XCII, 3, 7) (XCII, 4, 6) (XCII, 12, 5) (XCIII, 3, 4) (XCIII, 10, 6) (XCVI, 13, 6) (C, 13, 3) (CI, 3, 7) (CII, 1, 2) (CII, 2, 2) (CII, 3, 2) (CII, 5, 2) (CV, 1, 4) (CV, 5, 4) (CVII, 3, 8) (CVII, 10, 2) (CVIII, 4, 5) (CVIII, 9, 4) (CVIII, 13, 6) (CIX, 5, 6) (CX, 8, 9) (CX, 12, 4) (CXII, 1, 2) (CXIV, 4, 4) (CXV, 2, 8) (CXV, 10, 8) (CXV, 13, 1) (CXVI, 2, 3) (CXVI, 2, 6) (CXVI, 11, 1) (CXVII, 3, 5) (CXVII, 14, 7) (CXVIII, 9, 4) (CXIX, 11, 3) (CXXII, 10, 7) (CXXIV, 1, 4) (CXXIV, 3, 5) (CXXX, 9, 2) (CXXX, 13, 8) (CXXXI, 6, 9) (CXXXII, 1, 4) (CXXXVI, 4, 4) (CXXXVI, 5, 8) (CXXXVI, 13, 6) (CXXXVI, 13, 8) (CXXXVII, 1, 4) (CXXXVIII, 1, 3) (CXXXVIII, 12, 4) (CXXXIX, 9, 7) (CXL, 6, 4) (CXL, 6, 6) (CXLI, 1, 6) (CXLII, 1, 1) (CXLII, 7, 6) (CXLII, 9, 5) (CXLVII, 1, 2) (CXLVII, 5, 7) (CXLVIII, 1, 6) (CXLVIII, 7, 6) (CXLVIII, 13, 3) (CXLIX, 1, 7) (CXLIX, 13, 2) (CL, 9, 8) (CL, 11, 4) (CL, 13, 5) (CLI, 1, 1) (CLI, 2, 9) (CLI, 8, 3) (CLI, 14, 2) (CLI, 14, 6) (CLII, 2, 8) (CLII, 4, 7) (CLII, 10, 4) (CLIII, 5, 8) (CLIV, 14, 8) 
+stop
+
+
+------------------------------------------------------
+
+
+Second step, Let's try comparing Sonnets with my favourite book: The Great Gatsby!
+The book is too long, so I chose some of the most interesting chapters. 
+
+..........Done reading.......
+ There are 19983 words in total (include duplicates).
+Done creating Gatsby concordance, found 3412 unique elements.
+Which indicates that, only 17.07 percent of the words in Gatsby book are unique.
+
+I get a final ratio of 1.07 by dividing the Sonnet's uniqueword ratio by the ratio of gatsby book.
+
+So After comparing, Sonnet's uniqueword ratio (18.34) is higher than Fitzgerald's Great Gatsby ratio(17.07)
+With a final ratio > 1,it indicates that Shakespeare has more volume of words than Fitzgerald who are more modern.
+
+Done comparing and retrieving Shakespearean words using The Great Gatsby! 
+There are about 2255 elizabethanisms (not used in The Great Gatsby).
+
+
+------------------------------------------------------
+
+
+Last part: I am going to compare sonnets with linux dictionary
+It's a huge file so it will take time. Be patient:)
+Done creating dict words TWODTABLE!  There are 462984 words in total(ignoring capital letters).
+
+Done comparing...
+There are 408 Elizabethanisms that are not used today (not in the dictionary).
+
+I will print out all the Elizabethanisms in a txt file called 'Elizabethanismsoutput.txt'
+
+
+Text file created.
+ I hope you like my program. Thanks for playing! Have a great day;)
